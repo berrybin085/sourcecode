@@ -1,0 +1,9 @@
+1 wangbin a 1 b 2 
+2 wangbin c 2 
+3 wangbin a 1 b 2 
+4 das a 1 b 2 
+5 wangbin a 1 b 2 
+6 wang b 2 
+7 wangbin a 1 b 2 c 3 
+8 wangbin b 2 c 3 
+9 wangbin a 1 b 2 c 3 

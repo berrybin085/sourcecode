@@ -1,0 +1,56 @@
+/*
+ * stock.c
+ *
+ *  Created on: 2012/06/18
+ *      Author: Wangbin
+ */
+#include "stdio.h"
+int main(){
+	char buf1[]="bizbox_username=admin; bizbox_userpass=c1501f6698e058e47d3f81f723c2b9f2; bizstore_note=; bizbox_userlang=zh; csd=33; cod=29.30; business_note=null";
+	  char *buf2="bizbox_userlang=";
+	  char *ptr;
+	  char txt[100];
+
+	  ptr=Strstr(buf1,buf2); //成功返回的位置是"bizbox_userlang=zh; csd=33...."
+	  if( ptr==NULL)
+	  {
+	    printf("没有找到该内容\n");
+	    return -1;
+	  }
+	  ptr=ptr+strlen(buf2); //向后移动要查找字符串的长度，返回的位置是"zh; csd=33...."
+	  int i=0;
+	  while(*ptr!=';') //把'='和';'之间的字符记录在txt[]数组中
+	  {
+	    txt[i]=*ptr;
+	    ptr+=1;
+	    i=i+1;
+	  }
+	  txt[i]='\0';//字符串末尾记得补0
+	  printf("你要查找的内容是: %s\n", txt);
+
+	  system("pause");
+
+	    return 0;
+
+
+}
+
+typedef struct StockRecord{
+	char	acWineName[100];
+	int		iWineNum;
+}STOCKRECORD;
+
+typedef struct SellRecord{
+	int		iSellID;
+	char	acGuestName[100];
+	char	acWineNname[100];
+	int		iWineNum;
+}SELLRECORD;
+
+void order(){
+
+
+
+
+}
+

@@ -1,0 +1,14 @@
+/*
+ * stock.c
+ *
+ *  Created on: 2012/06/18
+ *      Author: Wangbin
+ */
+#include "stdio.h"
+int main(){
+
+
+
+	printf("Hello World!");
+}
+

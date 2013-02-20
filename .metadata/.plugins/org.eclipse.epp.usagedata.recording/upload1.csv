@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010390069
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010394475
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010423256
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010424084
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010424475
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010424615
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1340010426944
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1340010435912
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010436740
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010517959
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010519444
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1340010520225
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340010521569
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010528428
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010533225
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010533928
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010534334
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010534412
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340010542444
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010549272
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010560319
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010561584
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1340010562256
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340010563740
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010568162
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010569037
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010569365
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010569600
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1340010576694
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010583365
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010608069
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010609381
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010612834
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010613850
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010614194
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010614381
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010618459
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010647897
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010658912
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010662178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010662490
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010662647
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010685022
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010688694
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010688990
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010689209
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010702959
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010705584
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010710381
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010711115
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010711444
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010711600
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010720350
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010724287
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010728912
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010729600
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010729897
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010730115
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1340010743834
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1340010744444
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1340010744850
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1340010745256
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1340010745756
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1340010753006
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340010753694
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340010754756
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010760897
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010762678
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010763037
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010763162
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010771912
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010772850
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010773131
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010773319
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1340010775756
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010777740
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010785787
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010785819
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010809162
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010810365
+error,log,,,"Error logged from Debug Core: ",1340010812850
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010812990
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010815600
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010827740
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010839194
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010855178
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010855990
+error,log,,,"Error logged from Debug Core: ",1340010858522
+error,log,,,"Error logged from Debug Core: ",1340010858522
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010858709
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010860350
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010876490
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010877365
+error,log,,,"Error logged from Debug Core: ",1340010879459
+error,log,,,"Error logged from Debug Core: ",1340010879459
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010879615
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010882022
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1340010888803
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340010891694
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010893709
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010894975
+error,log,,,"Error logged from Debug Core: ",1340010896319
+error,log,,,"Error logged from Debug Core: ",1340010896319
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010896490
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010906178
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010920131
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010927959
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010928740
+error,log,,,"Error logged from Debug Core: ",1340010932897
+error,log,,,"Error logged from Debug Core: ",1340010932912
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010933084
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010937834
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340010938834
+error,log,,,"Error logged from Debug Core: ",1340010950490
+error,log,,,"Error logged from Debug Core: ",1340010950490
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010950662
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010956600
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010957084
+executed,command,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1340010961834
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010963803
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010965850
+error,log,,,"Error logged from Debug Core: ",1340010968444
+error,log,,,"Error logged from Debug Core: ",1340010968444
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010968584
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010969600
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildProject",1340010973694
+error,log,,,"Error logged from Debug Core: ",1340010976225
+error,log,,,"Error logged from Debug Core: ",1340010976225
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010976365
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010977287
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340010978147
+executed,command,org.eclipse.cdt.codan.ui,2.0.1.201202111925,"org.eclipse.cdt.codan.commands.runCodanCommand",1340010983584
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340010990803
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340010994537
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340010996303
+error,log,,,"Error logged from Debug Core: ",1340010997912
+error,log,,,"Error logged from Debug Core: ",1340010997912
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010998084
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340010999740
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340011009084
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011011944
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1340011014615
+error,log,,,"Error logged from Debug Core: ",1340011016225
+error,log,,,"Error logged from Debug Core: ",1340011016225
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011016381
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011038537
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011039990
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011049787
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011072350
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011077147
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011087647
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011089959
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011091615
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011091662
+error,log,,,"Error logged from Debug Core: ",1340011091834
+error,log,,,"Error logged from Debug Core: ",1340011091834
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011091990
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011095131
+opened,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.binaryEditor",1340011098131
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.binaryEditor",1340011098537
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011100319
+executed,command,,,"org.eclipse.cdt.debug.ui.localCShortcut.run",1340011104115
+error,log,,,"Error logged from Debug Core: ",1340011104287
+error,log,,,"Error logged from Debug Core: ",1340011104287
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011104459
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011105787
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011108647
+error,log,,,"Internal Error",1340011109569
+error,log,,,"Problems encountered while deleting resources.",1340011109569
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011111006
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1340011111022
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1340011111022
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.binaryEditor",1340011115459
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011116147
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011116365
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340011123381
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011125834
+error,log,,,"Error logged from Debug Core: ",1340011128584
+error,log,,,"Error logged from Debug Core: ",1340011128584
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011128725
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011131506
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011132944
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011141287
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011143194
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011146725
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1340011149365
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011152490
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011153397
+closed,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011154506
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011154615
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1340011154631
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1340011154631
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011157475
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011165069
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011171272
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011172756
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1340011172772
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1340011172772
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011176631
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011180959
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011185100
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011189131
+opened,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011189194
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011189287
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011190272
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011190990
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340011191584
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340011194115
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildProject",1340011199897
+error,log,,,"The program file specified in the launch configuration does not exist",1340011202944
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011203006
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011211584
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011212240
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011215662
+error,log,,,"The program file specified in the launch configuration does not exist",1340011219022
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011219053
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011220178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011226615
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011239365
+error,log,,,"The program file specified in the launch configuration does not exist",1340011243615
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011243631
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011248334
+started,bundle,org.eclipse.cdt.dsf.ui,2.2.1.201202111925,"org.eclipse.cdt.dsf.ui",1340011250725
+error,log,,,"Program file does not exist",1340011250834
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011250912
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011252100
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011257303
+error,log,,,"The program file specified in the launch configuration does not exist",1340011262740
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011262756
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011266240
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011269490
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011296178
+error,log,,,"Program file does not exist",1340011298037
+error,log,,,"Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.debug.ui.contexts.DsfSuspendTrigger$2@1272e01): Status ERROR: org.eclipse.cdt.dsf code=10005 Composite status null children=[Status ERROR: org.eclipse.cdt.dsf.gdb.ui code=10001 Not available null Status ERROR: org.eclipse.cdt.dsf code=10005 Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.debug.ui.contexts.DsfSuspendTrigger$6@1a0aab4): Status ERROR: org.eclipse.cdt.dsf.gdb.ui code=10001 Not available null' resulted in a rejected execution exception. null]' resulted in an error.",1340011298053
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011298115
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011308662
+executed,command,org.eclipse.cdt.codan.ui,2.0.1.201202111925,"org.eclipse.cdt.codan.commands.runCodanCommand",1340011314459
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011319365
+error,log,,,"The program file specified in the launch configuration does not exist",1340011321287
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011321303
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011360412
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1340011361178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011373287
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011373350
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011373444
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011376647
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.RunLast",1340011388178
+error,log,,,"The program file specified in the launch configuration does not exist",1340011388397
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011388428
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011390350
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011399740
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011400834
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1340011400834
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011405694
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011420615
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1340011420647
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1340011422912
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011424006
+closed,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011426178
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011426225
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1340011426240
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1340011426240
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011429522
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011453584
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011458678
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011462584
+opened,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011462647
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1340011462725
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1340011464069
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1340011466256
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAll",1340011469147
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011469444
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1340011469475
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1340011470678
+error,log,,,"The program file specified in the launch configuration does not exist",1340011473162

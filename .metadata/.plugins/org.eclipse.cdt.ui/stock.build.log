@@ -1,0 +1,11 @@
+
+**** Rebuild of configuration Debug for project stock ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o stock.o ..\stock.c
+gcc -o stock.exe stock.o
+c:/mingw/bin/../lib/gcc/mingw32/4.6.2/../../../libmingw32.a(main.o): In function `main':
+C:\MinGW\msys\1.0\src\mingwrt/../mingw/main.c:73: undefined reference to `WinMain@16'
+collect2: ld はステータス 1 で終了しました
+Build error occurred, build is stopped
+Time consumed: 1797  ms.  

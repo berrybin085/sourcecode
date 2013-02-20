@@ -1,0 +1,42 @@
+/*
+ * stock.c
+ *
+ *  Created on: 2012/06/18
+ *      Author: Wangbin
+ */
+#include "stdio.h"
+#include "stdlib.h"
+#include "string.h"
+int main(){
+	char *orderCommand ="order amy ashahi 2";
+
+	char *p1 = strtok(orderCommand," ");
+	char *p2 = strtok(NULL," ");
+	char *p3 = strtok(NULL," ");
+	printf("%s",*p1);
+	printf("%s",*p2);
+	printf("%s",*p3);
+	    return 0;
+
+
+}
+
+typedef struct StockRecord{
+	char	acWineName[100];
+	int		iWineNum;
+}STOCKRECORD;
+
+typedef struct SellRecord{
+	int		iSellID;
+	char	acGuestName[100];
+	char	acWineNname[100];
+	int		iWineNum;
+}SELLRECORD;
+
+void order(){
+
+
+
+
+}
+

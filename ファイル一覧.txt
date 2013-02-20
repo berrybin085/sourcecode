@@ -1,0 +1,6 @@
+ソースファイル一式:src
+エクスポートされたjarファイル：stockSys.jar
+実行ファイル：StockSystem.exe
+在庫情報ファイル：WineRecord.txt
+実績ファイル：BillRecord.txt
+実行方法説明ファイル：実行方法.txt
